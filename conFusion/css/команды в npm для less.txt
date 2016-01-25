@@ -1,0 +1,3 @@
+npm install -g less // если исльзовать Mac или Linux то пишут sudo npm install -g less
+lessc mystyless.less // создает новый файл css
+lessc mystyless.less > mystyless.css // cозд новый сss файл
